@@ -1,0 +1,22 @@
+.idea
+
+# Private workspace (never published)
+.ai_notes/
+CLAUDE.md
+.claude/
+
+# Secrets and env
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+
+# Misc
+*.log
+.DS_Store
